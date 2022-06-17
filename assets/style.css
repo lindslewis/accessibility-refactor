@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+
+/*tried to get rid of this, but am not sure that was a good idea, could not figure out how to recreate what it accomplished without it*/
+/*todo: still attempt to however*/
 body {
     background-color: #d9dcd6;
 }
@@ -15,16 +18,20 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+
+/*doesn't need the header class here since h1 is only used once*/
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+
+/*removed the .header h1 as it was unnessary since the affected element has its own class, which I changed to an ID since this is the only time it is used*/
+#seo {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +39,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+
+/*removed the header class, as it was redundant. only one list on the page, so this is fine*/
+ul {
     list-style-type: none;
 }
 
-.header div ul li {
+/*like the ul element above, only list it as li since these are the only list items.*/
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -54,7 +64,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("accessibility-refactor\assets\images\digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -96,7 +106,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-cost {
+.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
