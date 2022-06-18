@@ -4,17 +4,24 @@
     margin: 0;
 }
 
-
-/*tried to get rid of this, but am not sure that was a good idea, could not figure out how to recreate what it accomplished without it*/
 body {
     background-color: #d9dcd6;
 }
 
+/*below is the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+}
+
+.header nav{
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 
@@ -28,14 +35,6 @@ h1 {
 /*removed the .header h1 as it was unnessary since the affected element has its own class, which I changed to an ID since this is the only time it is used*/
 #seo {
     color: #d9dcd6;
-}
-
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
 }
 
 
