@@ -1,4 +1,4 @@
-#accessibility-refactor#
+#accessibility-refactor
 
 ## Description
 
@@ -14,7 +14,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 
-    ```
+![First portion of webpage pictured](C:\Users\antho\code\challenges\accessibility-refactor\assets\images\website-screen-shot1.png)
+![Second portion of webpage pictured](C:\Users\antho\code\challenges\accessibility-refactor\assets\images\website-screen-shot2.png)
+![Third portion of webpage pictured](C:\Users\antho\code\challenges\accessibility-refactor\assets\images\website-screen-shot3.png)
+
 ## Usage
 
 In the header, there are links to each section of the main body. These links are referred to as **Search Engine Optimization**, **Online Reputation Management**, and **Social Media Marketing**. These links at the top of the page will bring you to their relevant section in the main body of the webpage.
