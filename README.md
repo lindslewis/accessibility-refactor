@@ -26,5 +26,7 @@ In the header, there are links to each section of the main body. These links are
 ## Credits
 
 The original webpage that needed refactoring was provided by Trilogy Education Services.
+
 A tutorial for the ReadMe was followed, provided by [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 Information was also gleaned from [SemRush](https://www.semrush.com/blog/semantic-html5-guide/).
