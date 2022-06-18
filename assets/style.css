@@ -6,7 +6,6 @@
 
 
 /*tried to get rid of this, but am not sure that was a good idea, could not figure out how to recreate what it accomplished without it*/
-/*todo: still attempt to however*/
 body {
     background-color: #d9dcd6;
 }
@@ -198,13 +197,15 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/*changed this to a footer and removed the class. did not need the additional one that defined the font size in h2 since the font would be affected through this*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /*font-size: 20px;*/
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
