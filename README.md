@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-#accessibility-refactor
-=======
-# accessibility-refactor
 
->>>>>>> c88021fd26fd4e206266864bc55bfaaae199b9bb
+#accessibility-refactor
+
 
 ## Description
 
