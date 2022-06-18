@@ -11,14 +11,15 @@ I learned how to better think about my code with accessibility in mind, so watch
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Usage](#usage)
 - [Credits](#credits)
 
-![First portion of webpage pictured](C:\Users\antho\code\challenges\accessibility-refactor\assets\images\website-screen-shot1.png)
-![Second portion of webpage pictured](C:\Users\antho\code\challenges\accessibility-refactor\assets\images\website-screen-shot2.png)
-![Third portion of webpage pictured](C:\Users\antho\code\challenges\accessibility-refactor\assets\images\website-screen-shot3.png)
+![website-screen-shot1](https://user-images.githubusercontent.com/104105172/174422629-8fc6bc1f-771d-4202-9a39-61bc3390f138.png)
+![website-screen-shot2](https://user-images.githubusercontent.com/104105172/174422632-aa6830f0-8d89-4ea7-aaf1-ce0ec7e3b38a.png)
+![website-screen-shot3](https://user-images.githubusercontent.com/104105172/174422634-4913d990-4980-42d5-a72a-c5edd6eeaac1.png)
+
+
 
 ## Usage
 
@@ -27,11 +28,9 @@ In the header, there are links to each section of the main body. These links are
 ## Credits
 
 The original webpage that needed refactoring was provided by Trilogy Education Services.
-<<<<<<< HEAD
-A tutorial for the ReadMe was followed, provided by [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-=======
 
 A tutorial for the ReadMe was followed, provided by [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
->>>>>>> c88021fd26fd4e206266864bc55bfaaae199b9bb
+A tutorial for the ReadMe was followed, provided by [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 Information was also gleaned from [SemRush](https://www.semrush.com/blog/semantic-html5-guide/).
